@@ -1,7 +1,7 @@
 # Site settings
-title: ddbullfrog's blog
-description: ddbullfrog's blog
-favicon: /assets/img/avatar.JPG
+title: Corentin Corde
+description: Corentin Corde CV
+favicon: /assets/img/moi_BW.jpg
 baseurl:
 url: http://ddbullfrog.com
 rss_url: /pages/atom.xml
@@ -11,16 +11,16 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
+  name: Corentin Corde
+  title: Ingénieur génie Electrique spécialité Embedded System
+  address: Lyon, France
+  email: corentincorde@orange.fr
   link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
+  github: konovagit
   linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /assets/img/avatar.JPG
+  twitter: _konova_
+  gavatar: /assets/img/moi_BW.jpg
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
@@ -64,7 +64,7 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 20%
     - skill2:
       name: Bootstrap
       percentage: 90%
