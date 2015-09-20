@@ -21,59 +21,80 @@ author:
   linkedin: ddbullfrog
   twitter: _konova_
   gavatar: /assets/img/moi_BW.jpg
+  Formations:
+    - education1:
+      organization: Polytech Clermont-Ferrand (CUST)
+      degree: Ingénieur en Génie électrique option systèmes informatiques embarqués
+      started: 2013
+      duration: (2013 - 2016)
+      description:
+    - education2: 
+      organization: Université Claude Bernard LYON 1
+      degree: Diplôme Universitaire de Technologie Génie Electrique et Informatique Industrielle
+      started: 2011
+      duration: (2011 - 2013)
+      description:
+    - education3: 
+      organization: La Martinière Monplaisir LYON
+      degree: Diplôme du Baccalauréat Sciences et Technologies Industrielles option génie Electrotechnique Mention Bien
+      started: 2010
+      duration: (2010 - 2011)
+      description:
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: EKIUM 
+      location: 5 Allée des Droits de l'Homme, 69500 Bron, France
+      title: Stage Technicien Supérieur
+      started: 2013
+      duration: (3 mois Avril-Juin)
+      description: Réalisation d’automatismes et de supervisions ; Projet d’immotique pour bâtiment BBC ; Lecture de plans, schémas électriques, réunions clients, gestion de l’énergie dans les bâtiments.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
+      company: UCPA CARRE DE SOIE 
+      location: 3 Avenue de Bohlen, 69120 Vaulx-en-Velin, France
+      title: Animateur Sportif
       started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (Tous les mois de Juin de 2012 à 2014)
+      description: Encadrement d’un parc de jeux gonflables, animation (groupe de 15 personnes), gestion des entrées sorties.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
-    - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Scierie DUBOT et FILS   
+      location: 63380 –SAINT AVIT
+      title: Mission d’intérim Opérateur de scierie
+      started: 2011
+      duration: (Juillet-Aout)
+      description: Travail à la chaine, triage du bois et mise sur palette.
+    - work4: 
+      company: SARL YVES PACCALIN   
+      location: 23 rue Louis Cézard 69008 LYON
+      title: Stage d'Electricien
+      started: 2010
+      duration: (Juillet)
+      description: Travaux d’électricité sur chantier et particulier. Lecture de schémas électriques, raccord au réseau électrique EDF.
   languages:
     - language1:
-      name: Chinese
+      name: Français
       proficiency: Native
     - language2:
-      name: English
+      name: English (Toeic:775)
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 20%
+      name: C
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: C++
+      percentage: 65%
     - skill3:
-      name: JavaScript
-      percentage: 80%
+      name: Qt
+      percentage: 75%
     - skill4:
-      name: AngularJS
-      percentage: 80%
+      name: Tcl/Tk
+      percentage: 55%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: VHDL
+      percentage: 70%
+    - skill6:
+      name: SQL
+      percentage: 65%
+    - skill7:
+      name: Bash
+      percentage: 65%
