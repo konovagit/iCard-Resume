@@ -1,7 +1,7 @@
 # Site settings
 title: Corentin Corde
 description: Corentin Corde CV
-favicon: /assets/img/moi_BW.jpg
+favicon: /assets/img/me_rtone.jpeg
 baseurl:
 url: http://ddbullfrog.com
 rss_url: /pages/atom.xml
@@ -19,7 +19,7 @@ author:
   weibo:
   github: konovagit
   linkedin: ddbullfrog
-  twitter: _konova_
+  twitter: corentincorde
   gavatar: /assets/img/moi_BW.jpg
   Formations:
     - education1:
